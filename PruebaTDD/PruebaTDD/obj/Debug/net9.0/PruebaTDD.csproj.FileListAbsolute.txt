@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\NET\Profundizacion\PruebaTDD\PruebaTDD\bin\Debug\net9.0\PruebaTDD.exe
+C:\Users\USER\source\repos\NET\Profundizacion\PruebaTDD\PruebaTDD\bin\Debug\net9.0\PruebaTDD.deps.json
+C:\Users\USER\source\repos\NET\Profundizacion\PruebaTDD\PruebaTDD\bin\Debug\net9.0\PruebaTDD.runtimeconfig.json
+C:\Users\USER\source\repos\NET\Profundizacion\PruebaTDD\PruebaTDD\bin\Debug\net9.0\PruebaTDD.dll
+C:\Users\USER\source\repos\NET\Profundizacion\PruebaTDD\PruebaTDD\bin\Debug\net9.0\PruebaTDD.pdb
+C:\Users\USER\source\repos\NET\Profundizacion\PruebaTDD\PruebaTDD\obj\Debug\net9.0\PruebaTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\NET\Profundizacion\PruebaTDD\PruebaTDD\obj\Debug\net9.0\PruebaTDD.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\NET\Profundizacion\PruebaTDD\PruebaTDD\obj\Debug\net9.0\PruebaTDD.AssemblyInfo.cs
+C:\Users\USER\source\repos\NET\Profundizacion\PruebaTDD\PruebaTDD\obj\Debug\net9.0\PruebaTDD.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\NET\Profundizacion\PruebaTDD\PruebaTDD\obj\Debug\net9.0\PruebaTDD.sourcelink.json
+C:\Users\USER\source\repos\NET\Profundizacion\PruebaTDD\PruebaTDD\obj\Debug\net9.0\PruebaTDD.dll
+C:\Users\USER\source\repos\NET\Profundizacion\PruebaTDD\PruebaTDD\obj\Debug\net9.0\refint\PruebaTDD.dll
+C:\Users\USER\source\repos\NET\Profundizacion\PruebaTDD\PruebaTDD\obj\Debug\net9.0\PruebaTDD.pdb
+C:\Users\USER\source\repos\NET\Profundizacion\PruebaTDD\PruebaTDD\obj\Debug\net9.0\PruebaTDD.genruntimeconfig.cache
+C:\Users\USER\source\repos\NET\Profundizacion\PruebaTDD\PruebaTDD\obj\Debug\net9.0\ref\PruebaTDD.dll
