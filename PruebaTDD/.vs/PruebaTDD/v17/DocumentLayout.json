@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 389,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,9 +28,10 @@
               "RelativeDocumentMoniker": "PruebaTDD.Test\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\NET\\Profundizacion-Parejas\\PruebaTDD\\PruebaTDD.Test\\UnitTest1.cs",
               "RelativeToolTip": "PruebaTDD.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T20:17:04.781Z"
+              "WhenOpened": "2025-02-18T20:17:04.781Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +41,7 @@
               "RelativeDocumentMoniker": "PruebaTDD\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\NET\\Profundizacion-Parejas\\PruebaTDD\\PruebaTDD\\Program.cs",
               "RelativeToolTip": "PruebaTDD\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T20:07:50.305Z",
               "EditorCaption": ""
